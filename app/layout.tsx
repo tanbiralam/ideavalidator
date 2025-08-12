@@ -16,13 +16,6 @@ export const metadata: Metadata = {
     "market research",
     "idea validation",
   ],
-  authors: [{ name: "IdeaValidator Team" }],
-  openGraph: {
-    title: "IdeaValidator - Validate Your SaaS Ideas",
-    description:
-      "Get instant feedback on your startup idea using AI and market data.",
-    type: "website",
-  },
 };
 
 export default function RootLayout({
